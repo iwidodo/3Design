@@ -1,2 +1,2 @@
 # 3Design
-Group project from Stanford Summer business course
+Created during the Stanford Summer business course, 3Design is the brainchild of Victor Cheng, Imam Widodo, Akane Edwards, and Aidan Fitzgerald. 3Design is a simple way for consumers to turn visions into reality. 3D printing is a rising method of making cheap prototypes and customizable products, but the technology remains largely inaccessible due to the fact that few are able to design 3D products or stomach the high initial costs. With our platform, we aim to provide a means for average consumers to commission our team of designers to design their ideas cheaply and/or print their final products in specialized 3D printing stations without the need to purchase and maintain a 3d printer.
